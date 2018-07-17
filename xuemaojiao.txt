@@ -1,4 +1,5 @@
 git is a ditributed version control system.
 git is free software distributed under the GPL.
 fangce shi ge da shuaige woaiwuguangrong.
-Git has a mutable index called stage
+Git has a mutable index called stage.
+Git tracks changes.
